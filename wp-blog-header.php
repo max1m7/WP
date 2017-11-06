@@ -1,6 +1,6 @@
 <?php
 /**
- * Loads the WordPress environment and template.
+ * Loads the WordPresss environment and template.
  *
  * @package WordPress
  */
